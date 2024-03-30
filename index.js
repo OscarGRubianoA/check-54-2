@@ -1,1 +1,1 @@
-let i = undefined
+let i = NaN
